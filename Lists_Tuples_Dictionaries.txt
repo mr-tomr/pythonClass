@@ -1,0 +1,27 @@
+Lists:
+
+Lists are ordered collections of items.
+They are mutable, meaning you can change, add, or remove items after the list is created.
+Lists are defined using square brackets [ ].
+Example: my_list = [1, 2, 3, 4, 5]
+Tuples:
+
+Tuples are ordered collections of items, similar to lists.
+However, they are immutable, meaning once created, you cannot change, add, or remove items.
+Tuples are defined using parentheses ( ).
+Example: my_tuple = (1, 2, 3, 4, 5)
+Dictionaries:
+
+Dictionaries are unordered collections of key-value pairs.
+They are mutable and allow you to store and retrieve values using unique keys.
+Dictionaries are defined using curly braces { }, with key-value pairs separated by colons : and individual pairs separated by commas ,.
+Example: my_dict = {'a': 1, 'b': 2, 'c': 3}
+Here's a summary of the differences between them:
+
+Mutability: Lists and dictionaries are mutable, meaning you can change their contents after creation. Tuples are immutable, meaning their contents cannot be changed once they are created.
+
+Order: Lists and tuples are ordered collections, meaning the order of elements is preserved. Dictionaries are unordered, meaning there is no guarantee on the order of key-value pairs.
+
+Accessing Elements: Lists and tuples are accessed by index, while dictionaries are accessed by key.
+
+Syntax: Lists are defined using square brackets [ ], tuples are defined using parentheses ( ), and dictionaries are defined using curly braces { }.
