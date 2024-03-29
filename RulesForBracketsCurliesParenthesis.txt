@@ -23,6 +23,7 @@ Square Brackets []:
 Parentheses ():
 
   Used for defining tuples and tuple literals.
+  A tuple in Python is an ordered collection of elements, similar to a list, but it is immutable. 
   For tuples: (element1, element2, ...)
   Used for enclosing function arguments and method calls: function(argument1, argument2)
   Used for grouping expressions and operations to control operator precedence: (a + b) * c
